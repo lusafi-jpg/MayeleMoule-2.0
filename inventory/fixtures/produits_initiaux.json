@@ -1,0 +1,74 @@
+[
+    {
+        "model": "inventory.product",
+        "pk": 1,
+        "fields": {
+            "nom": "Maïs",
+            "prix_kg": "150.00",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Corn_maize_plant.jpg/220px-Corn_maize_plant.jpg",
+            "description": "Farine de maïs fine, idéale pour la pâte de fufu et la bouillie.",
+            "offre_promo": null,
+            "actif": true
+        }
+    },
+    {
+        "model": "inventory.product",
+        "pk": 2,
+        "fields": {
+            "nom": "Manioc",
+            "prix_kg": "120.00",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Manihot_esculenta_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-090.jpg/220px-Manihot_esculenta_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-090.jpg",
+            "description": "Farine de manioc séchée, base du chikwangue et du fufu.",
+            "offre_promo": "-10% ce mois",
+            "actif": true
+        }
+    },
+    {
+        "model": "inventory.product",
+        "pk": 3,
+        "fields": {
+            "nom": "Sorgho",
+            "prix_kg": "180.00",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sorghum_bicolor.jpg/220px-Sorghum_bicolor.jpg",
+            "description": "Céréale riche en nutriments, utilisée pour la bière locale et la farine.",
+            "offre_promo": null,
+            "actif": true
+        }
+    },
+    {
+        "model": "inventory.product",
+        "pk": 4,
+        "fields": {
+            "nom": "Mil",
+            "prix_kg": "160.00",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Pennisetum_glaucum_USDA.jpg/220px-Pennisetum_glaucum_USDA.jpg",
+            "description": "Farine de mil pour bouillies et galettes traditionnelles.",
+            "offre_promo": null,
+            "actif": true
+        }
+    },
+    {
+        "model": "inventory.product",
+        "pk": 5,
+        "fields": {
+            "nom": "Arachide",
+            "prix_kg": "250.00",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ArachisHypogaea.jpg/220px-ArachisHypogaea.jpg",
+            "description": "Pâte d'arachide fraîche, idéale pour sauces et condiments.",
+            "offre_promo": "2 kg achetés = 1 offert",
+            "actif": true
+        }
+    },
+    {
+        "model": "inventory.product",
+        "pk": 6,
+        "fields": {
+            "nom": "Fonio",
+            "prix_kg": "300.00",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Starr_071024-0153_Digitaria_exilis.jpg/220px-Starr_071024-0153_Digitaria_exilis.jpg",
+            "description": "Céréale légère et nutritive, sans gluten, de plus en plus populaire.",
+            "offre_promo": null,
+            "actif": true
+        }
+    }
+]
